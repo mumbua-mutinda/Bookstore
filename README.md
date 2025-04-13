@@ -10,7 +10,7 @@ The goal of this project is to:
 
   
 Entity-Relationship Diagram (ERD)
-
+![Bookstore ERD](diagrams/Bookstore_DB ERD.png)
 
 
 
