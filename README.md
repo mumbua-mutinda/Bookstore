@@ -3,3 +3,7 @@ The Bookstore Database is designed to store and manage all relevant data about b
 
 
 
+## Contributors:
+    #1. Rodgers @Rockjunior
+    #2. 
+    #3.
