@@ -1,7 +1,7 @@
 # Bookstore Management System
 The Bookstore Database is designed to store and manage all relevant data about books, authors, customers, orders, and shipping. The goal is to ensure data integrity, support efficient queries, and reflect real-world relationships between the entities.
-Objective
 
+# Objective
 The goal of this project is to:
 - Design a normalized database for a bookstore.
 - Implement relationships between books, customers, orders, and shipping.
@@ -10,13 +10,9 @@ The goal of this project is to:
 
   
 Entity-Relationship Diagram (ERD)
-![Bookstore ERD](diagrams/Bookstore_DB ERD.png)
-
-
-
-
+![Bookstore_DB ERD drawio](https://github.com/user-attachments/assets/9133b812-61a9-404e-b2ff-91c7f765e26d)
 
 ## Contributors:
     #1. Rodgers @Rockjunior
-    #2. 
-    #3.
+    #2. Berlyn @mumbua-mutinda
+    #3. Stephen @RiuK-47
