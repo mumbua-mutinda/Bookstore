@@ -10,7 +10,8 @@ The goal of this project is to:
 
   
 Entity-Relationship Diagram (ERD)
-![Bookstore ERD](diagrams/Bookstore_DB ERD.png)
+![Bookstore_DB ERD drawio](https://github.com/user-attachments/assets/9133b812-61a9-404e-b2ff-91c7f765e26d)
+
 
 
 
